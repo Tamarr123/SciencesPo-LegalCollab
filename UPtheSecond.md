@@ -10,6 +10,6 @@ Noise.EndTime=11 pm
 
 Noise.StartTime=7 am
 
-4.sec=They will vacuum clean the shared rooms every {Rot time}
+4.sec=They will vacuum clean the shared rooms every {Rot time}.
 
-Rot time= 4 days 
+Rot time=4 days 
